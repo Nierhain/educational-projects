@@ -1,0 +1,31 @@
+{
+  "name": "swade-characters",
+  "version": "0.1.0",
+  "description": "learn semantic-ui by making a savage worlds adventure edition (swade) character sheet",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nierhain/educational-projects.git"
+  },
+  "keywords": [
+    "swade",
+    "savage",
+    "worlds",
+    "character",
+    "sheet",
+    "pater",
+    "tak"
+  ],
+  "author": "Nierhain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nierhain/educational-projects/issues"
+  },
+  "homepage": "https://github.com/Nierhain/educational-projects#readme",
+  "dependencies": {
+    "fomantic-ui": "^2.8.4"
+  }
+}

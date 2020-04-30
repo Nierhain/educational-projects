@@ -1,8 +1,5 @@
-# Educational projects
-This is the repository where I keep all my stuff I did to learn a tool, framework, language or other stuff for my coding career and adventures. Feel free to check them out and learn, contribute or use some of the code. After all this is meant to be a place not only for myself but for other people to get the gripes of different coding topics.
-
-
-*Check the branches for the actual projects*
+# Fomantic-UI
+Fomantic-UI is a community continuation of Semantic-UI, that was started as the development of Semantic-UI came to a halt. It not only brings all deependencies to modern days it also adds some features aswell. I wanted to explore Semantic-UI a bit to get a feel for different CSS Frameworks and as the installer of it is not updated (or atleast i got some errors while installing) I switched to Fomantic-UI. Nevertheless, let's dive into it.
 
 # License
 
